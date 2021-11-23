@@ -8,5 +8,5 @@ We will implement a simplified version of [Shazam](https://www.shazam.com) by de
 
 ## Datasets (see the dataset branch of this repository)
 We will use the following datasets:
-- https://www.kaggle.com/dhrumil140396/mp3s32k for the first part of the notebook
+- https://www.kaggle.com/dhrumil140396/mp3s32k for the first part of the notebook (saved as *archive.zip*)
 - *echonest.csv*, *features.csv* and *tracks.csv* for the second part of the notebook
