@@ -18,3 +18,5 @@ We will use the following datasets:
 - *queries* for the first part of the notebook (available in the *files* branch of this repository)
 - *mp3s32k* for the first part of the notebook (available at https://www.kaggle.com/dhrumil140396/mp3s32k)
 - *echonest.csv*, *features.csv* and *tracks.csv* for the second part of the notebook (available in the *files* branch of this repository)
+
+**Remark .** This project was part of the Algorithmic Methods of Data Mining's course held by Prof. Aris Anagnostopoulos @ Sapienza
