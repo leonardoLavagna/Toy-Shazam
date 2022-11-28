@@ -7,7 +7,7 @@ We will implement a simplified version of [Shazam](https://www.shazam.com) by de
 ### What's in here?
 There are two branches: `main` and `files`. In the branch `files` there are
 - the datasets needed for the second part of the project `echonest.csv`, `features.csv` and `tracks.csv`
-- the datasets needed for the first part of the project `queries` and `mp3s32k` available at https://www.kaggle.com/dhrumil140396/mp3s32k
+- the dataset needed for the first part of the project `queries` 
 In the branch `main` there are
 - `kmeans_utils.py` that contains utility functions to run an optimized version of the k-means algorithm
 - the notebook with all the code of the project `main.ipynb`
